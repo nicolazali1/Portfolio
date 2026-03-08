@@ -1,60 +1,79 @@
 # Nicola Zali
 
 Master student in Mechanical Engineering at EPFL  
-Specialization: Control Systems
+Specialization: Automatic Control and Systems
+
+This page presents a selection of engineering and robotics projects developed during my studies at EPFL.
+
+My work focuses on experimental robotics, control systems, and bio-inspired mechanisms.
 
 ---
 
-## Engineering Projects
+# Featured Project
 
-### Morphing SMA Fin for Robotic Fish
-Semester project at EPFL CREATE Lab.
+## Morphing Caudal Fin for Bio-Inspired Underwater Propulsion
 
-- Design of a variable-geometry caudal fin
-- Shape Memory Alloy (SMA) actuation
-- Experimental thrust measurements
+Semester project at the **EPFL CREATE Lab**.
+
+Design and experimental evaluation of a morphing robotic fish fin actuated by **shape memory alloys (SMA)**.
+
+The project investigates whether **dynamic fin geometry** can improve propulsion efficiency and thrust generation in underwater robots.
+
+Key aspects of the project:
+
+- SMA actuator characterization (Nitinol, NiTiCu, Flexinol)
+- Morphing caudal fin mechanical design
+- Custom experimental test bench
+- Thrust measurement using load cell
+- Motor control and data acquisition system
+- Experimental performance analysis
+
+➡ Project page:  
+[View full project](sma-fin)
 
 ---
 
-### Autonomous Driving using Model Predictive Control
+# Other Projects
+
+### Autonomous Driving with Model Predictive Control
 EPFL course project (ME-425)
 
-- MPC controller implemented in MATLAB
-- Simulated overtaking manoeuvre
+Implementation of an MPC controller capable of performing overtaking manoeuvres in simulation.
 
 ---
 
 ### VTOL CFD Simulation
-EPFL project
-
-- 2D CFD simulation of VTOL transition
-- ANSYS Fluent
+CFD analysis of a VTOL aircraft during the transition from vertical to horizontal flight using ANSYS.
 
 ---
 
 ### Thymio Robot Navigation
-EPFL MICRO-452
-
-- Path planning
-- Kalman filter state estimation
-- Python implementation
+Autonomous navigation system including path planning and state estimation using a Kalman filter.
 
 ---
 
-## Skills
+### Nintendo DS Sudoku Game
+Implementation of a Sudoku game in C for the Nintendo DS platform.
 
-**Programming**  
+---
+
+# Skills
+
+### Programming
 Python, MATLAB, C
 
-**Mechanical Design**  
+### Mechanical Design
 SolidWorks, Fusion360
 
-**Simulation**  
+### Simulation
 ANSYS Fluent
+
+### Embedded Systems
+Arduino, Dynamixel motors
 
 ---
 
-## Contact
+# Contact
 
 Email: nicola.zali@epfl.ch  
 GitHub: https://github.com/nicolazali1
