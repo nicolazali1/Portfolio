@@ -5,15 +5,14 @@ Specialization: Control Systems
 
 ---
 
-## Projects
+## Engineering Projects
 
 ### Morphing SMA Fin for Robotic Fish
 Semester project at EPFL CREATE Lab.
 
-- Design of a morphing caudal fin actuated by shape memory alloys
-- Experimental thrust measurements using a load cell
-
-Repository: https://github.com/username/sma-fin
+- Design of a variable-geometry caudal fin
+- Shape Memory Alloy (SMA) actuation
+- Experimental thrust measurements
 
 ---
 
@@ -21,15 +20,15 @@ Repository: https://github.com/username/sma-fin
 EPFL course project (ME-425)
 
 - MPC controller implemented in MATLAB
-- Simulated overtaking maneuver
+- Simulated overtaking manoeuvre
 
 ---
 
 ### VTOL CFD Simulation
 EPFL project
 
-- 2D CFD simulation of a VTOL drone transition
-- ANSYS simulation
+- 2D CFD simulation of VTOL transition
+- ANSYS Fluent
 
 ---
 
@@ -44,13 +43,13 @@ EPFL MICRO-452
 
 ## Skills
 
-**Programming**
+**Programming**  
 Python, MATLAB, C
 
-**Mechanical Design**
+**Mechanical Design**  
 SolidWorks, Fusion360
 
-**Simulation**
+**Simulation**  
 ANSYS Fluent
 
 ---
