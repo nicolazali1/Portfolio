@@ -29,7 +29,7 @@ Key aspects of the project:
 - Experimental performance analysis
 
 ➡ Project page:  
-[View full project](sma-fin)
+[View full project](sma-fin/index.md)
 
 ---
 
