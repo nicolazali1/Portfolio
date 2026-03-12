@@ -174,4 +174,4 @@ The simulations provided insight into how the aerodynamic forces evolve during t
 
 ### Project material
 
-- [Report](files/vtol_cfd_report.pdf)
+- [Report](files/MFS_report.pdf)
