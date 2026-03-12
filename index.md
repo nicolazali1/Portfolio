@@ -34,7 +34,7 @@ This project allowed me to gain practical experience in experimental robotics, r
 
 ### Project material
 
-- [Report](files/sma_fin_report.pdf)
+- [Report](files/SP_report.pdf)
 - [Video / Photos](files/sma_fin_media.pdf)
 
 ---
@@ -66,10 +66,10 @@ Through this project I gained practical experience in electronics prototyping, h
 
 ### Project material
 
-- [Report](files/omnisense_report.pdf)
+- [Report](files/ME410_report.pdf)
 - [Video](files/omnisense_video.mp4)
-- [Poster](files/omnisense_poster.pdf)
-- [Presentation](files/omnisense_presentation.pdf)
+- [Poster](files/ME410_poster.pdf)
+- [Presentation](files/ME410_presentation.pdf)
 
 ---
 
