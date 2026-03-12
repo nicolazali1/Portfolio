@@ -174,4 +174,4 @@ The simulations provided insight into how the aerodynamic forces evolve during t
 
 ### Project material
 
-- [Report](files/MFS_report.pdf)
+- [Report](files/NFS_report.pdf)
