@@ -35,7 +35,7 @@ This project allowed me to gain practical experience in experimental robotics, r
 ### Project material
 
 - [Report](files/SP_report.pdf)
-- [Video / Photos](files/sma_fin_media.pdf)
+- [Video / Photos](https://youtu.be/74dbSWoOSSo)
 
 ---
 
@@ -67,7 +67,7 @@ Through this project I gained practical experience in electronics prototyping, h
 ### Project material
 
 - [Report](files/ME410_report.pdf)
-- [Video](files/omnisense_video.mp4)
+- [Video](https://youtu.be/k1z5aI1IW9E)
 - [Poster](files/ME410_poster.pdf)
 - [Presentation](files/ME410_presentation.pdf)
 
@@ -147,7 +147,7 @@ The final system successfully performed global navigation, obstacle avoidance, a
 
 ### Project material
 
-- [Video](files/thymio_navigation_video.mp4)
+- [Video](https://youtu.be/Gw_9zLWj47Y)
 
 ---
 
