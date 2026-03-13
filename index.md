@@ -8,7 +8,7 @@ This page presents a selection of academic projects developed during my studies.
 
 ## Morphing Structure for Soft Underwater Swimmer using SMAs
 
-**Semester project — EPFL CREATE Lab**  
+**Semester project at EPFL CREATE Lab**  
 **Supervisor:** Prof. Josie Hughes  
 **Project mentor:** Nana Obayashi  
 **Workload:** 10 ECTS  
